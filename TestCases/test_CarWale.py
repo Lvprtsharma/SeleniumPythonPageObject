@@ -31,22 +31,22 @@ class Test_CarWale(BaseTest):
         if carBrand == "Honda":
             home.gotoNewCars().selectHonda()
             title = car.getCarTitle()
-            print("Title of page is : " + title).encode('utf8')
+            print("Title of page is : " + title)
             assert title == carTitle, "Not on correct page as title is different"
         elif carBrand == "Toyota":
             home.gotoNewCars().selectToyota()
             title = car.getCarTitle()
-            print("Title of page is : " + title).encode('utf8')
+            print("Title of page is : " + title)
             assert title == carTitle, "Not on correct page as title is different"
         elif carBrand == "Hyundai":
             home.gotoNewCars().selectHyundai()
             title = car.getCarTitle()
-            print("Title of page is : " + title).encode('utf8')
+            print("Title of page is : " + title)
             assert title == carTitle, "Not on correct page as title is different"
         elif carBrand == "Skoda":
             home.gotoNewCars().selectSkoda()
             title = car.getCarTitle()
-            print("Title of page is : " + title).encode('utf8')
+            print("Title of page is : " + title)
             assert title == carTitle, "Not on correct page as title is different"
 
     @pytest.mark.skip
