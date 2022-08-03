@@ -1,0 +1,4 @@
+INFO     TestCases.test_CarWale:test_CarWale.py:26 ******* Inside Select Car Test ********
+INFO     Pages.BasePage:BasePage.py:60 Moving to an element: newCars_XPATH
+INFO     Pages.BasePage:BasePage.py:24 Clicking on an element: findNewCar_XPATH
+INFO     Pages.BasePage:BasePage.py:24 Clicking on an element: honda_CSS

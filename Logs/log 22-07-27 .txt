@@ -1,0 +1,1 @@
+2022-07-27 22:29:12,940 - test_CarWaleSite.py:[15] - [INFO] - ******* Inside New Car Test ********

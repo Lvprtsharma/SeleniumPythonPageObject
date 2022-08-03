@@ -1,0 +1,12 @@
+2022-08-02 22:05:39,833 - BasePage.py:[60] - [INFO] - Moving to an element: newCars_XPATH
+2022-082022-08-02 22:05:49,638 - test_CarWale.py:[54] - [INFO] - ******* Inside Car Names Test ********
+2022-08-02 22:06:02,643 - test_CarWale.py:[54] - [INFO] - ******* Inside Car Names Test ********
+2022-08-02 22:06:15,571 - test_CarWale.py:[54] - [INFO] - ******* Inside Car Names Test ********
+ BasePage.py:[24] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-08-02 22:05:52,589 - BasePage.py:[24] - [INFO] - Clicking on an element: toyota_CSS
+2022-08-02 22:06:04,941 - BasePage.py:[60] - [INFO] - Moving to an element: newCars_XPATH
+2022-08-02 22:06:05,159 - BasePage.py:[24] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-08-02 22:06:05,470 - BasePage.py:[24] - [INFO] - Clicking on an element: hyundai_CSS
+2022-08-02 22:06:17,897 - BasePage.py:[60] - [INFO] - Moving to an element: newCars_XPATH
+2022-08-02 22:06:18,030 - BasePage.py:[24] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-08-02 22:06:18,422 - BasePage.py:[24] - [INFO] - Clicking on an element: skoda_XPATH
