@@ -27,7 +27,7 @@ def log_on_failure(request, get_browser):
         allure.attach(driver.get_screenshot_as_png(), name=test_SignUpTest, attachment_type=AttachmentType.PNG)
 
 
-@pytest.fixture(params=["chrome"], scope="class")
+@pytest.fixture(params=["chrome"], scope="function")
 def get_browser(request):
     if request.param == "chrome":
 
